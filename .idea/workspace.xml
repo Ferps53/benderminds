@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d9c9a48-a0b3-4f87-8d44-01cc84db771e" name="Changes" comment="a">
+
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +108,7 @@
       <option name="project" value="LOCAL" />
       <updated>1655353790575</updated>
     </task>
+
     <task id="LOCAL-00009" summary="a">
       <created>1655354111410</created>
       <option name="number" value="00009" />
@@ -114,6 +117,7 @@
       <updated>1655354111410</updated>
     </task>
     <option name="localTasksCounter" value="10" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
