@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d9c9a48-a0b3-4f87-8d44-01cc84db771e" name="Changes" comment="a">
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.min.js" afterDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655350807514</updated>
       <workItem from="1655350811173" duration="1755000" />
-      <workItem from="1655353206515" duration="825000" />
+      <workItem from="1655353206515" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1655352287059</created>
@@ -107,7 +108,16 @@
       <option name="project" value="LOCAL" />
       <updated>1655353790575</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+
+    <task id="LOCAL-00009" summary="a">
+      <created>1655354111410</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655354111410</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
